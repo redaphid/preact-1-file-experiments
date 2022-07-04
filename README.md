@@ -8,3 +8,5 @@ Host this file however you want. I've been doing:
 npx live-server
 ```
 so it reloads when I make changes.
+
+This page is hosted [here](https://redaphid.github.io/preact-1-file-experiments/). It's literally just the index.html file.
